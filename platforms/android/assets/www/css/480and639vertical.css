@@ -1,0 +1,15 @@
+
+#container header  ul{
+    width: 100%;
+  
+
+}
+#container header ul li{
+    width: 49%;
+
+    border-radius: 5px;
+    display: inline-block;
+}
+#container header ul li#seg_li{
+    float: right;
+}
